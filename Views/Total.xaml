@@ -21,7 +21,7 @@
                      HorizontalTextAlignment="Center"/>
 
               <Frame Margin="10">
-                     <Grid ColumnDefinitions="2*,2*,*,2*"
+                     <Grid ColumnDefinitions="2*,2*,2*,2*"
                            RowDefinitions="Auto, Auto">
                             <Label Grid.Row="0"
                                    Grid.Column="0"

@@ -62,7 +62,7 @@
                                           <Stepper Grid.Row="0"
                                                    Grid.Column="2"
                                                    x:Name="stp_participantes"
-                                                   Minimum="0"
+                                                   Minimum="1"
                                                    Maximum="100"
                                                    Increment="1"/>
                                    </Grid>
